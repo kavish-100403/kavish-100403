@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavish-100403
-- 👀 I’m interested in Web and App development.
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in AI/ML and Web Development.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on some Python projects and Web projects
 - 📫 You can reach me out on Instagram ([kavish.rajpopat](https://www.instagram.com/kavish.rajpopat/)).
 - 📫 You can reach me out on LinkedIn ([kavish.rajpopat](https://www.linkedin.com/in/kavish-rajpopat-21407b23a/)).
