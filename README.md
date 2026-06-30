@@ -105,7 +105,7 @@ I'm passionate about building AI systems that are useful, trustworthy, and solve
 
 ## 📫 Connect With Me
 
-- LinkedIn: ([kavish.rajpopat](https://www.linkedin.com/in/kavish-rajpopat/))
+- LinkedIn: [kavish.rajpopat](https://www.linkedin.com/in/kavish-rajpopat/)
 - Email: rkpopat00@gmail.com
 
 ---
