@@ -15,9 +15,9 @@ I contributed two merged pull requests to [Darnit](https://github.com/darnitdevo
 
 ### [Snickr](https://github.com/kavish-100403/snickr_project)
 
-A Slack-like collaboration application built with Flask and PostgreSQL. It includes authentication, workspace and channel membership, direct messaging, invitations, search, access control, parameterized SQL, and transactional updates.
+A Slack-like collaboration application built with Flask and PostgreSQL. It includes authentication, workspace and channel membership, direct messaging, invitations, search, access control, parameterized SQL, and transactional updates. The project includes 14 automated tests, multi-version GitHub Actions CI, and a non-root Docker deployment with PostgreSQL Compose.
 
-`Python` `Flask` `PostgreSQL` `Jinja2` `Bootstrap`
+`Python` `Flask` `PostgreSQL` `pytest` `Docker` `GitHub Actions`
 
 ### [Explainable Fake News Detection](https://github.com/kavish-100403/Explainable-Fake-News-Detection)
 
