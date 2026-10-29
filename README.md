@@ -1,118 +1,56 @@
-# Hi there! 👋 I'm Kavish Rajpopat
+# Kavish Rajpopat
 
-🎓 MS in Computer Science @ New York University (NYU Tandon School of Engineering)
+MS Computer Science student at **NYU Tandon**, graduating in May 2027. I build software and applied machine learning systems with an emphasis on reliable data pipelines, explainability, testing, and usable interfaces.
 
-I'm passionate about building AI systems that are useful, trustworthy, and solve real-world problems. My interests span Machine Learning, Large Language Models (LLMs), NLP, Explainable AI (XAI), and full-stack AI applications.
+I am seeking full-time 2027 opportunities in software engineering, machine learning, and applied AI across the United States.
 
----
+## Open-source experience
 
-## 🚀 What I'm Currently Working On
+I contributed two merged pull requests to [Darnit](https://github.com/darnitdevorg/darnit), an open-source Python CLI maintained through the NYU Secure Systems Lab:
 
-- 🤖 Large Language Models (LLMs)
-- 🧠 Machine Learning & Deep Learning
-- 🔍 Explainable AI (XAI)
-- 📰 AI-powered misinformation detection
-- 📊 Data visualization & analytics
-- 🌐 Full-stack AI applications
+- [Fixed Claude Code and Claude Desktop MCP installation handling](https://github.com/darnitdevorg/darnit/pull/309)
+- [Added subprocess timeout test coverage for repository detection](https://github.com/darnitdevorg/darnit/pull/223)
 
----
+## Selected projects
 
-## 💻 Tech Stack
+### [Snickr](https://github.com/kavish-100403/snickr_project)
 
-### Languages
-- Python
-- Java
-- C++
-- JavaScript
-- SQL
+A Slack-like collaboration application built with Flask and PostgreSQL. It includes authentication, workspace and channel membership, direct messaging, invitations, search, access control, parameterized SQL, and transactional updates.
 
-### AI / Machine Learning
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- Hugging Face Transformers
-- LangChain
-- NLTK
-- Pandas
-- NumPy
+`Python` `Flask` `PostgreSQL` `Jinja2` `Bootstrap`
 
-### Data Science
-- Plotly
-- Matplotlib
-- Streamlit
-- Dash
+### [Explainable Fake News Detection](https://github.com/kavish-100403/Explainable-Fake-News-Detection)
 
-### Web Development
-- React
-- HTML
-- CSS
-- JavaScript
-- Flask
+An IEEE-published deep learning project that compares CNN, LSTM, and BiLSTM classifiers and combines model predictions with SHAP-based explanations and source credibility checks. The pipeline processes more than 600,000 articles and exposes predictions through a Streamlit interface.
 
-### Databases
-- PostgreSQL
-- MySQL
+`Python` `TensorFlow` `Keras` `SHAP` `MongoDB` `Streamlit`
 
-### Tools
-- Git
-- GitHub
-- Docker
-- VS Code
-- Jupyter Notebook
-- Linux
+### [NYC Traffic Collision Dashboard](https://github.com/kavish-100403/nyc-collisions-visualization)
 
----
+An interactive dashboard for exploring more than 82,000 NYC collision records through coordinated KPI cards, geospatial hotspots, contributing-factor analysis, and monthly trends.
 
-## 📌 Featured Projects
+`Python` `Pandas` `Plotly` `Dash`
 
-🔹 Fake News Detection using Deep Learning & LLM Verification
+### [Decentralized Freelance Escrow](https://github.com/kavish-100403/decentralized-freelance-escrow)
 
-- Ensemble CNN + LSTM + BiLSTM architecture
-- LLM-assisted credibility verification
-- Streamlit web application
+A full-stack escrow application deployed to the Ethereum Sepolia testnet with buyer, seller, and arbiter workflows for payment release, refunds, and dispute resolution.
 
-🔹 Football Defensive Performance Dashboard
+`Solidity` `React` `Node.js` `Hardhat` `ethers.js`
 
-- Interactive analytics dashboard built with Plotly Dash
-- League filtering, player comparisons, and advanced visualizations
+## Technical skills
 
-🔹 Stock Market Prediction
+- **Languages:** Python, JavaScript, C++, C, SQL, HTML, CSS
+- **Software:** Flask, React, Node.js, Git, pytest, Jinja2, Bootstrap
+- **Machine learning and data:** PyTorch, TensorFlow, Keras, scikit-learn, SHAP, Pandas, NumPy, Plotly, Dash, Streamlit
+- **Databases:** PostgreSQL, MySQL, MongoDB
 
-- Machine Learning & LSTM-based forecasting
-- Time-series analysis and visualization
+## Research
 
----
+**Explainable Fake News Detection with Source Credibility and Decision Transparency**<br>
+2nd International Conference on Computing and Data Science, IEEE, 2025<br>
+[DOI: 10.1109/ICCDS64403.2025](https://doi.org/10.1109/ICCDS64403.2025)
 
-## 🌱 Currently Exploring
+## Contact
 
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- AI Evaluation
-- Responsible AI
-- MLOps
-
----
-
-## 🤝 Open to Collaborate On
-
-- AI/ML Projects
-- Open Source
-- LLM Applications
-- Research Projects
-- Python Development
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: [kavish.rajpopat](https://www.linkedin.com/in/kavish-rajpopat/)
-- Email: rkpopat00@gmail.com
-
----
-
-⭐ *Always learning, always building.*
-
-<!---
-kavish-100403/kavish-100403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [LinkedIn](https://www.linkedin.com/in/kavish-rajpopat/)
+- [rajpopatkavish@gmail.com](mailto:rajpopatkavish@gmail.com)
